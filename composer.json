@@ -1,5 +1,5 @@
 {
-    "name": "vdechenaux/brotli",
+    "name": "hajiom/brotli",
     "description": "Add brotli compress/uncompress functions to PHP",
     "keywords": ["brotli"],
     "type": "library",
